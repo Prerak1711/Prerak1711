@@ -157,7 +157,7 @@ Status      : Preparing for SIH 2026 🚀
 
 <p>
 
-<a href="https://linkedin.com/in/prerak1711">
+<a href="www.linkedin.com/in/prerak-nagar-b64974324">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
