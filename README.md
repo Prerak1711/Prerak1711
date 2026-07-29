@@ -94,9 +94,9 @@ Status      : Preparing for SIH 2026 🚀
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=prerak1711&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prerak1711&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -106,7 +106,7 @@ Status      : Preparing for SIH 2026 🚀
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=prerak1711&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -116,7 +116,7 @@ Status      : Preparing for SIH 2026 🚀
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=prerak1711&theme=tokyo-night"/>
 
 </p>
 
@@ -126,7 +126,7 @@ Status      : Preparing for SIH 2026 🚀
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/prerak1711/prerak1711/output/github-contribution-grid-snake-dark.svg"/>
 
 </p>
 
@@ -157,15 +157,15 @@ Status      : Preparing for SIH 2026 🚀
 
 <p>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://linkedin.com/in/prerak1711">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/prerak1711">
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:p4prerak@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
