@@ -3,3 +3,34 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:003B2F,100:00FF9C&height=200&section=header&text=PRERAK.EXE&fontSize=65&fontColor=00FF9C&fontAlignY=40&desc=INTELLIGENCE%20%7C%20ENGINEERING%20%7C%20INNOVATION&descSize=15&descAlignY=65&animation=fadeIn" />
 
 </div>
+
+```html
+<div align="center">
+
+### `> INITIALIZING PRERAK.EXE...`
+
+</div>
+
+```bash
+┌──[prerak@developer]
+└─$ whoami
+
+  NAME       : Prerak Nagar
+  ROLE       : AI & Full Stack Developer
+  BASE       : India 🇮🇳
+  INTERESTS  : Artificial Intelligence
+               Full Stack Engineering
+               Automation & Innovation
+  MISSION    : Turning ideas into intelligent products
+  STATUS     : Building the future... [ACTIVE]
+
+┌──[prerak@developer]
+└─$ echo "Let's build something extraordinary."
+```
+
+<div align="center">
+
+`[ SYSTEM ONLINE ]` 🟢
+
+</div>
+```
