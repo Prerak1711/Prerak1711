@@ -193,8 +193,67 @@ A collection of experiments exploring intelligent workflows, automation and prod
 
 *Consistency is built one commit at a time.*
 
+## 🐍 CONTRIBUTION MATRIX
+
 <div align="center">
 
-<img width="80%" src="https://streak-stats.demolab.com?user=prerak1711&theme=dark&hide_border=true&background=050505&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C&sideLabels=00FF9C&dates=888888" />
+<img
+src="https://raw.githubusercontent.com/prerak1711/prerak1711/output/github-contribution-grid-snake-dark.svg"
+width="100%"
+alt="GitHub Contribution Snake"
+/>
+
+</div>
+## 🎯 2026 // MISSION BOARD
+
+> OBJECTIVE: Become a better engineer. Build meaningful products.
+
+- [ ] 🏆 Win Smart India Hackathon 2026
+- [ ] 🤖 Launch a successful AI product
+- [ ] 🌍 Contribute to Open Source
+- [ ] 📈 Reach 500+ GitHub contributions
+- [ ] 🚀 Launch a SaaS product
+- [ ] 🧠 Master System Design
+- [ ] ⚡ Build something that makes an impact
+
+<div align="center">
+
+`MISSION STATUS: IN PROGRESS`
+
+</div>
+
+
+## 🌐 CONNECT WITH ME
+
+<div align="center">
+
+<a href="https://github.com/prerak1711">
+  <img src="https://img.shields.io/badge/GitHub-050505?style=for-the-badge&logo=github&logoColor=00FF9C"/>
+</a>
+
+<a href="https://www.linkedin.com/in/prerak-nagar-b64974324">
+  <img src="https://img.shields.io/badge/LinkedIn-050505?style=for-the-badge&logo=linkedin&logoColor=00FF9C"/>
+</a>
+
+<a href="mailto:p4prerak@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-050505?style=for-the-badge&logo=gmail&logoColor=00FF9C"/>
+</a>
+
+<br/><br/>
+
+`LET'S CONNECT • COLLABORATE • CREATE`
+
+</div>
+
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF9C,100:050505&height=120&section=footer"/>
+
+### `PRERAK.EXE`
+
+**BUILD. EXPERIMENT. INNOVATE. REPEAT.**
+
+`SYSTEM STATUS: ALWAYS LEARNING 🟢`
 
 </div>
